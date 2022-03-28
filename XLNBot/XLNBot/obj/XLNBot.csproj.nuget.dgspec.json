@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\XLNBot.csproj": {}
+    "C:\\Users\\Eva\\Desktop\\XLNBot\\XLNBot\\XLNBot\\XLNBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\XLNBot.csproj": {
+    "C:\\Users\\Eva\\Desktop\\XLNBot\\XLNBot\\XLNBot\\XLNBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\XLNBot.csproj",
+        "projectUniqueName": "C:\\Users\\Eva\\Desktop\\XLNBot\\XLNBot\\XLNBot\\XLNBot.csproj",
         "projectName": "XLNBot",
-        "projectPath": "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\XLNBot.csproj",
+        "projectPath": "C:\\Users\\Eva\\Desktop\\XLNBot\\XLNBot\\XLNBot\\XLNBot.csproj",
         "packagesPath": "C:\\Users\\Eva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\obj\\",
+        "outputPath": "C:\\Users\\Eva\\Desktop\\XLNBot\\XLNBot\\XLNBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eva\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oh6/izsx4SN7f7FK52SNQnY2u5umPkNFcR2R4PJyWc1RqSBqG2aWVDCVQxQGzPZ7ApynHRNGRBciqXoGEzv3Hw==",
+  "dgSpecHash": "TVY0zer6IqY/Y7fpj22EQzaiEqaaVa7bFg4P95PmV1JBUZev3zDSBEFRDv0fkoT7AH2YkF2P2JdsbArfWWHAsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\XLNBot.csproj",
+  "projectFilePath": "C:\\Users\\Eva\\Desktop\\XLNBot\\XLNBot\\XLNBot\\XLNBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eva\\.nuget\\packages\\adaptiveexpressions\\4.15.2\\adaptiveexpressions.4.15.2.nupkg.sha512",
     "C:\\Users\\Eva\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",
