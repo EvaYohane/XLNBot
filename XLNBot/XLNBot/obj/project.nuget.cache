@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDYS4dPUu/UPcQAMxhs+/9xk4N/R7H+nvj7Oirzb+pg/uDEhIS06M+G+16471C8Gc99PPyX1ARUWm0k8pXGv8g==",
+  "dgSpecHash": "oh6/izsx4SN7f7FK52SNQnY2u5umPkNFcR2R4PJyWc1RqSBqG2aWVDCVQxQGzPZ7ApynHRNGRBciqXoGEzv3Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eva\\source\\repos\\XLNBot\\XLNBot\\XLNBot.csproj",
+  "projectFilePath": "C:\\Users\\Eva\\Desktop\\XLNBot-main\\XLNBot-main\\XLNBot\\XLNBot\\XLNBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eva\\.nuget\\packages\\adaptiveexpressions\\4.15.2\\adaptiveexpressions.4.15.2.nupkg.sha512",
     "C:\\Users\\Eva\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",
@@ -158,9 +158,7 @@
     "C:\\Users\\Eva\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Eva\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Eva\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eva\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\Eva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Eva\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -30,7 +30,7 @@ namespace XLNBot.Bots
             var results = await EchoBotQnA.GetAnswersAsync(turnContext);
             if (results.Any())
             {
-                await turnContext.SendActivityAsync(MessageFactory.Text("QnA Maker Returned: " + results.First().Answer), cancellationToken);
+                await turnContext.SendActivityAsync(MessageFactory.Text("" + results.First().Answer), cancellationToken);
             }
             else
             {
@@ -40,8 +40,8 @@ namespace XLNBot.Bots
 
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
-            var replyText = $"Echo: {turnContext.Activity.Text}";
-            await turnContext.SendActivityAsync(MessageFactory.Text(replyText, replyText), cancellationToken);
+            //var replyText = $"Echo: {turnContext.Activity.Text}";
+           // await turnContext.SendActivityAsync(MessageFactory.Text(replyText, replyText), cancellationToken);
 
             await AccessQnAMaker(turnContext, cancellationToken);
         }
